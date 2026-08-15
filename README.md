@@ -12,14 +12,16 @@ The homelab provides a practical foundation for future Active Directory, DNS, Gr
 <h3>Skills Demonstrated</h3>
 
 <ol>
-  <li>Information Technology (IT),</li>
-  <li>Finance, </li>
-  <li>Audit, and </li>
-  <li>Procurement.</li>
+  <li>Oracle VirtualBox administration & VM provisioning,</li>
+  <li>Windows Server 2022 & Windows 8.1 deployment, </li>
+  <li>IP addressing & subnet planning, </li>
+  <li>Virtual networking & departmental segmentation, </li>
+  <li>Static IPv4 configuration,</li>
+  <li>Enterprise hostname & VM organisation, </li>
+  <li>Network connectivity testing, </li>
+  <li>VSnapshot & recovery management and, </li>
+  <li>Technical infrastructure documentation. </li>
+   
 </ol>
-<p>Four separate /24 networks were configured for the departmental segments, with each network providing 254 usable host addresses. The networks were 192.168.40.0/24 (IT), 192.168.10.0/24 (Finance), 192.168.20.0/24 (Audit), and 192.168.50.0/24 (Procurement). Network isolation was implemented using VirtualBox NAT Network functionality, with each department attached to its 
-own isolated virtual network..</p>
 
-<p>Sixteen virtual machines were deployed across the four departmental networks  three employee workstation VMs and one Windows Server VM per department for a total of 12 workstations and 
-4 servers.. Each VM's network adapter was explicitly attached to its corresponding departmental NAT Network, ensuring that devices in one department cannot directly communicate with 
-devices in another without passing through a controlled routing or firewall boundary. This project demonstrates core network security principles including the reduction of lateral movement risk, the containment of a potential breach to a single department, and the enforcement of the principle of least privilege at the network layer.</p>
+<p>This version keeps the important technical evidence without making the README feel like another copy of your full documentation..</p>
