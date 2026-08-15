@@ -6,7 +6,7 @@
 
 <p>Each department was configured with its own /24 network, static IP addressing, hostname convention, and VirtualBox group structure, creating an organised enterprise-style environment. The build covers VM provisioning, operating system deployment, resource allocation, network configuration, connectivity testing, and baseline snapshots for recovery.
 
-The homelab provides a practical foundation for future Active Directory, DNS, Group Policy, Windows security, networking, and cybersecurity exercises.: </p>
+The homelab provides a practical foundation for future Active Directory, DNS, Group Policy, Windows security, networking, and cybersecurity exercises. </p>
 
 
 <h3>Skills Demonstrated</h3>
