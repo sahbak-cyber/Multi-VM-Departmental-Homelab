@@ -9,7 +9,7 @@
 The homelab provides a practical foundation for future Active Directory, DNS, Group Policy, Windows security, networking, and cybersecurity exercises.: </p>
 
 
-<h1>Skills Demonstrated</h1>
+<h3>Skills Demonstrated</h3>
 
 <ol>
   <li>Information Technology (IT),</li>
