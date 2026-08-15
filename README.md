@@ -19,9 +19,8 @@ The homelab provides a practical foundation for future Active Directory, DNS, Gr
   <li>Static IPv4 configuration,</li>
   <li>Enterprise hostname & VM organisation, </li>
   <li>Network connectivity testing, </li>
-  <li>VSnapshot & recovery management and, </li>
+  <li>Snapshot & recovery management and, </li>
   <li>Technical infrastructure documentation. </li>
    
 </ol>
 
-<p>This version keeps the important technical evidence without making the README feel like another copy of your full documentation..</p>
