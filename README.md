@@ -4,10 +4,12 @@
 
 <p>The environment includes four Windows Server 2022 servers and fourteen Windows 8.1 workstations. Finance, Audit, IT, and Procurement each contain one server and three workstations, while the Guest environment contains two standalone workstations.: </p>
 
-<p>TEach department was configured with its own /24 network, static IP addressing, hostname convention, and VirtualBox group structure, creating an organised enterprise-style environment. The build covers VM provisioning, operating system deployment, resource allocation, network configuration, connectivity testing, and baseline snapshots for recovery.
+<p>Each department was configured with its own /24 network, static IP addressing, hostname convention, and VirtualBox group structure, creating an organised enterprise-style environment. The build covers VM provisioning, operating system deployment, resource allocation, network configuration, connectivity testing, and baseline snapshots for recovery.
 
 The homelab provides a practical foundation for future Active Directory, DNS, Group Policy, Windows security, networking, and cybersecurity exercises.: </p>
 
+
+<h1>Skills Demonstrated</h1>
 
 <ol>
   <li>Information Technology (IT),</li>
