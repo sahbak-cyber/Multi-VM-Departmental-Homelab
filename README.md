@@ -213,5 +213,5 @@ This homelab was created for educational and professional portfolio purposes. Al
 
 <p>
 <strong>Saheed Bakare</strong><br>
-IT Support Engineer | Aspiring Cybersecurity and IAM Professional
+IT Support Engineer | Cybersecurity Analyst & IAM Practitioner
 </p>
