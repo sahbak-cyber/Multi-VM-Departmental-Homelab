@@ -90,39 +90,43 @@ The homelab provides a practical foundation for future Active Directory, DNS, Gr
 
 <h3>🌐 Network Architecture</h3>
 
+<p>
+For security and documentation purposes, the exact laboratory IP addresses have been anonymised.
+</p>
+
 <table>
   <thead>
     <tr>
       <th>Department</th>
       <th>IPv4 Network</th>
-      <th>Subnet Mask</th>
+      <th>Subnet</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Finance</td>
-      <td>192.168.10.0/24</td>
-      <td>255.255.255.0</td>
+      <td>Private Departmental Network</td>
+      <td>/24</td>
     </tr>
     <tr>
       <td>Audit</td>
-      <td>192.168.20.0/24</td>
-      <td>255.255.255.0</td>
+      <td>Private Departmental Network</td>
+      <td>/24</td>
     </tr>
     <tr>
       <td>Information Technology</td>
-      <td>192.168.30.0/24</td>
-      <td>255.255.255.0</td>
+      <td>Private Departmental Network</td>
+      <td>/24</td>
     </tr>
     <tr>
       <td>Procurement</td>
-      <td>192.168.40.0/24</td>
-      <td>255.255.255.0</td>
+      <td>Private Departmental Network</td>
+      <td>/24</td>
     </tr>
     <tr>
       <td>Guest</td>
-      <td>192.168.50.0/24</td>
-      <td>255.255.255.0</td>
+      <td>Isolated Guest Network</td>
+      <td>/24</td>
     </tr>
   </tbody>
 </table>
